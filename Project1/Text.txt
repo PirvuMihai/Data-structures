@@ -1,0 +1,4 @@
+3
+1 Gigel 10
+2 Alex 9
+3 Mihai 5
